@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "D:/HTML LEARNING"
+    },
+    {
+      "path": "D:/simple website test"
+    }
+  ],
+  "settings": {
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.multiRootWorkspaceName": "HTML LEARNING"
+  }
+}
